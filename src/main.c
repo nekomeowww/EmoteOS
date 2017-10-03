@@ -18,3 +18,6 @@
  }
  
  //Distribute this linux from debian
+ 
+ //Second
+ //Write a new OS with linux and unix support, as well as the Wine
