@@ -1,4 +1,4 @@
-![](https://github.com/EMOSYS/EmoteOS/blob/dev-lib/doc/source/image/EMOSYS-glitched-banner-min.png)    
+![](https://raw.githubusercontent.com/EMOSYS/EmoteOS/dev-lib/doc/source/image/EMOSYS-glitched-banner-min.png)    
 
 # EmoteOS - Express Your Emotion
 Emote/ionalized Operating System
